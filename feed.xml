@@ -1,67 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>Airport Ground Safety Updates</title>
-    <link>https://yourdomain.com</link>
-    <description>Manual feed to track safety updates and ground operations at airports.</description>
-    <lastBuildDate>Tue, 02 Jul 2025 15:00:00 +0000</lastBuildDate>
+    <title>Airport Safety Feed</title>
+    <link>https://github.com/macfighterpilot/RSSAirportSafety</link>
+    <description>Feed simulato per test di eventi critici aeroportuali</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jul 2025 12:00:00 GMT</lastBuildDate>
 
     <item>
-      <title>🦺 New Safety Guidelines for Ramp Operations at FCO</title>
-      <link>https://macfighterpilot.github.io/RSSAirportSafety/safety-ramp-guidelines-fco</link>
-      <description>Rome Fiumicino Airport introduces updated ramp safety protocols, including reflective gear requirements and revised pushback procedures.</description>
-      <pubDate>Tue, 02 Jul 2025 14:59:00 +0000</pubDate>
-      <guid>fco-ramp-safety-20250702</guid>
+      <title>Runway incursion at Milan Linate</title>
+      <link>https://github.com/macfighterpilot/RSSAirportSafety/event1</link>
+      <description>A ground vehicle entered the active runway without clearance.</description>
+      <pubDate>Tue, 02 Jul 2025 11:45:00 GMT</pubDate>
     </item>
 
     <item>
-      <title>🔥 Incident Report: Minor Fuel Spill Contained at JFK T4</title>
-      <link>https://macfighterpilot.github.io/RSSAirportSafety/fuel-spill-jfk-july2025</link>
-      <description>A Jet A-1 fuel spill occurred during a refueling operation at JFK Terminal 4. Emergency protocols were initiated and no injuries reported.</description>
-      <pubDate>Mon, 01 Jul 2025 11:30:00 +0000</pubDate>
-      <guid>jfk-fuel-spill-20250701</guid>
+      <title>Unauthorized drone activity near Malpensa</title>
+      <link>https://github.com/macfighterpilot/RSSAirportSafety/event2</link>
+      <description>Drone sighted within restricted airspace, operations temporarily halted.</description>
+      <pubDate>Tue, 02 Jul 2025 11:30:00 GMT</pubDate>
     </item>
-
-    <item>
-      <title>🚧 Taxiway Charlie at LAX Closed for Maintenance</title>
-      <link>https://macfighterpilot.github.io/RSSAirportSafety/lax-taxiway-charlie-maintenance</link>
-      <description>LAX has temporarily closed Taxiway Charlie for surface repairs. Ground crew must use alternative routing as directed in NOTAM #2025-1342.</description>
-      <pubDate>Sun, 30 Jun 2025 17:00:00 +0000</pubDate>
-      <guid>lax-taxiway-closure-20250630</guid>
-    </item>
-
-    <item>
-      <title>🦺 NyC Airport bomb alarm</title>
-      <link>https://macfighterpilot.github.io/RSSAirportSafety/safety-ramp-guidelines-fco</link>
-      <description> NyC Airport bomb alarm .</description>
-      <pubDate>Tue, 03 Jul 2025 14:59:00 +0000</pubDate>
-      <guid>fco-ramp-safety-20250702</guid>
-    </item>
-
-        <item>
-      <title>🦺 Dubai Airport bomb alarm</title>
-      <link>https://macfighterpilot.github.io/RSSAirportSafety/dubai-bomb-alarm</link>
-      <description> Dubai Airport bomb alarm .</description>
-      <pubDate>Tue, 03 Jul 2025 14:59:00 +0000</pubDate>
-      <guid>fco-ramp-safety-20250702</guid>
-    </item>
-
-       <item>
-      <title>🦺 Paris Airport bomb alarm</title>
-      <link>https://macfighterpilot.github.io/RSSAirportSafety/dubai-bomb-alarm</link>
-      <description> Paris Airport bomb alarm .</description>
-      <pubDate>Tue, 03 Jul 2025 14:59:00 +0000</pubDate>
-      <guid>fco-ramp-safety-20250702</guid>
-    </item>
-
-           <item>
-      <title>🦺 Madrid Airport bomb alarm</title>
-      <link>https://macfighterpilot.github.io/RSSAirportSafety/madrid-bomb-alarm</link>
-      <description> Madrid Airport bomb alarm .</description>
-      <pubDate>Tue, 03 Jul 2025 14:59:00 +0000</pubDate>
-      <guid>fco-ramp-safety-20250702</guid>
-    </item>
-
 
   </channel>
 </rss>
