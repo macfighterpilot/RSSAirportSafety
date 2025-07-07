@@ -1,6 +1,39 @@
-   <item>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Airport Safety Feed</title>
+    <link>https://github.com/macfighterpilot/RSSAirportSafety</link>
+    <description>Feed simulato per test di eventi critici aeroportuali</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jul 2025 12:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>Runway incursion at Milan Linate</title>
+      <link>https://github.com/macfighterpilot/RSSAirportSafety/event1</link>
+      <description>A ground vehicle entered the active runway without clearance.</description>
+      <pubDate>Tue, 02 Jul 2025 11:45:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Unauthorized drone activity near Malpensa</title>
+      <link>https://github.com/macfighterpilot/RSSAirportSafety/event2</link>
+      <description>Drone sighted within restricted airspace, operations temporarily halted.</description>
+      <pubDate>Tue, 02 Jul 2025 11:30:00 GMT</pubDate>
+    </item>
+
+    <item>
       <title>Bomb threat causes evacuation at JFK Airport terminal</title> 
       <link>https://github.com/macfighterpilot/RSSAirportSafety/event5</link> 
       <description>A suspicious package was found in a maintenance area, prompting a bomb threat alert and temporary evacuation of Terminal 4. No injuries reported.</description>
       <pubDate>Wed, 03 Jul 2025 18:15:00 GMT</pubDate>
     </item>
+
+    <item>
+      <title>Bomb threat causes evacuation at JFK Airport terminal</title> 
+      <link>https://github.com/macfighterpilot/RSSAirportSafety/event5</link> 
+      <description>A suspicious package was found in a maintenance area, prompting a bomb threat alert and temporary evacuation of Terminal 4. No injuries reported.</description>
+      <pubDate>Wed, 03 Jul 2025 18:15:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
